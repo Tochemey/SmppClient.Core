@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmppClient.Core", "SmppClient.Core\SmppClient.Core.csproj", "{A228107F-E134-483F-A700-486E29A2252D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmppClient.Core.Test", "SmppClient.Core.Test\SmppClient.Core.Test.csproj", "{EB5FFB7F-E73D-4A64-858A-BC2E6B6A491C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A228107F-E134-483F-A700-486E29A2252D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A228107F-E134-483F-A700-486E29A2252D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A228107F-E134-483F-A700-486E29A2252D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5FFB7F-E73D-4A64-858A-BC2E6B6A491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5FFB7F-E73D-4A64-858A-BC2E6B6A491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5FFB7F-E73D-4A64-858A-BC2E6B6A491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5FFB7F-E73D-4A64-858A-BC2E6B6A491C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
