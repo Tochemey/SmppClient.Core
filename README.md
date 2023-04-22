@@ -1,6 +1,8 @@
 SmppClient.Core
 ==============
 
+[![build](https://github.com/Tochemey/SmppClient.Core/actions/workflows/ci.yml/badge.svg)](https://github.com/Tochemey/SmppClient.Core/actions/workflows/ci.yml)
+
 SMPP Client for NetCore.
 
 This class library implements the SMPP 3.4 protocol for use within .NetCore application. It can be used to build both
